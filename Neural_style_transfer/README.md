@@ -8,12 +8,12 @@ This code is documented so you can follow along while reading with the paper. Yo
 
 Results:
 
-<img src="images/Macau.jpg" width="400px" height="300px" />
-<img src="images/output-macau/4900 - final.png" width="400px" height="300px" />
+<img src="content.jpg" width="400px" height="300px" />
+<img src="result.jpg" width="400px" height="300px" />
 
 Using the StarryNight:
 
-<img src="images/StarryNight.jpg" width="400px" height="300px" />
+<img src="style.jpg" width="400px" height="300px" />
 
 # How to run
 
