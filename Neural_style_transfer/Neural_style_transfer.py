@@ -96,9 +96,6 @@ class StyleTransfer:
 		self.finalOutput = self.sess.run(self.combination)
 		
 		
-			
-		
-		
 
 	def saveOutput(self,name):
 
