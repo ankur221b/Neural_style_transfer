@@ -26,10 +26,6 @@ class StyleTransfer:
 
 		self.create_model()
 		self.create_loss()
-
-		# Important line. For using VGG16+imagenet weights we need to load
-		# the session. If we don't and we do global_variables_initializer
-		# the weights will be randomly initialized.
 		self.sess = K.get_session()
 
 	def create_model(self):
