@@ -10,16 +10,3 @@ Results:
 Using the StarryNight:
 
 <img src="style.jpg" width="400px" height="300px" />
-
-# How to run
-
-You will need to install dependencies:
-
-- TensorFlow
-- Scipy
-- Numpy
-
-References:
-- [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-- [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
-- [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
